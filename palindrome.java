@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.Scanner;
-public class Main{
+public class palindrome{
     public static void main(String args[]){
         Scanner input = new Scanner(System.in);
         String n = input.next();
